@@ -6,8 +6,8 @@ $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
 Title "NCP1090 Development Board"
-Date "2018-08-19"
-Rev "1"
+Date "2018-09-08"
+Rev "2"
 Comp "Alex M."
 Comment1 ""
 Comment2 ""
@@ -224,28 +224,6 @@ Text Label 2550 3450 0    50   ~ 0
 BR2a
 Text Label 2550 3550 0    50   ~ 0
 BR2b
-$Comp
-L Mechanical:MountingHole_Pad TP2
-U 1 1 5B7A2B37
-P 4300 4400
-F 0 "TP2" H 4200 4404 50  0000 R CNN
-F 1 "MountingHole_Pad" H 4400 4360 50  0001 L CNN
-F 2 "Measurement_Points:Measurement_Point_Round-SMD-Pad_Small" H 4300 4400 50  0001 C CNN
-F 3 "~" H 4300 4400 50  0001 C CNN
-	1    4300 4400
-	-1   0    0    1   
-$EndComp
-$Comp
-L Mechanical:MountingHole_Pad TP1
-U 1 1 5B7A4029
-P 4300 2400
-F 0 "TP1" H 4400 2405 50  0000 L CNN
-F 1 "MountingHole_Pad" H 4400 2360 50  0001 L CNN
-F 2 "Measurement_Points:Measurement_Point_Round-SMD-Pad_Small" H 4300 2400 50  0001 C CNN
-F 3 "~" H 4300 2400 50  0001 C CNN
-	1    4300 2400
-	1    0    0    -1  
-$EndComp
 $Comp
 L Connector_Generic:Conn_01x03 X2
 U 1 1 5B7A4241
