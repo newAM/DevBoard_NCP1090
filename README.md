@@ -3,11 +3,11 @@
 This project is a development board for the NCP1090 802.3af power over Ethernet controller.
 
 ## Media
-![3D Rendering](DevBoard_W5500_Media/DevBoard_W5500_Render.png?raw=true)
+![3D Rendering](DevBoard_NCP1090_Media/DevBoard_NCP1090_Render.png?raw=true)
 
 ## Project Contents
 -  DevBoard_NCP1090_KiCAD - KiCad PCB and schematic files
--  DevBoard_NCP1090_media - photos
+-  DevBoard_NCP1090_Media - photos
 
 ## Bill of Materials
 
